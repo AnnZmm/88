@@ -24,5 +24,6 @@ public class Main
         System.out.println(list.searchStrings("Hello"));
         list.numberOfSymbols();
         list.addString();
+        System.out.println();
     }
 }
